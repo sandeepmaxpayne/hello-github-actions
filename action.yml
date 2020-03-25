@@ -1,0 +1,10 @@
+name: 'Hello World'
+description: 'Hello World github action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  
+branding:
+  icon: docker-cloud
+  color: green
+  
